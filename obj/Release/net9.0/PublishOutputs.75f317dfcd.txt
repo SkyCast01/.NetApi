@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\NasaWeatherApi.exe
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\NasaWeatherApi.dll
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\NasaWeatherApi.deps.json
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\NasaWeatherApi.runtimeconfig.json
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\NasaWeatherApi.pdb
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\source\repos\NasaWeatherApi\NasaWeatherApi\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

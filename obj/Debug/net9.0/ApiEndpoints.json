@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NasaWeatherApi.Controllers.WeatherController",
+    "Method": "Predict",
+    "RelativePath": "api/Weather/predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "NasaWeatherApi.Models.WeatherRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
